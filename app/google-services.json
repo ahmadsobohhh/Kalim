@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269980216485",
+    "project_id": "kalim-2707d",
+    "storage_bucket": "kalim-2707d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269980216485:android:64c929af9e2023c614b14c",
+        "android_client_info": {
+          "package_name": "com.company.Kalim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA87bHLRg1k2sTJ1tZgd2J8zzmQX8yxdw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
